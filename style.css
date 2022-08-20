@@ -1,0 +1,64 @@
+.barbe{
+    padding-left: 30px;
+    font-size: 4px;
+   background: #c0bdbd;
+}
+
+h2{
+    text-align: center;
+    background:#cccccc;
+    color: blue;
+ 
+}
+
+p{
+    text-align: center;
+    background: #cccccc;
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.diferenciales{
+    background: white;
+    padding: 30px;
+}
+
+h3{
+text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.j{
+    width: 50%;
+    
+}
+
+a{
+    background: #cccccc;
+    color: white;
+}
